@@ -1,1 +1,1 @@
-Webhooks playground for Orléans Tech Conf !!!
+Webhooks playground !!!
