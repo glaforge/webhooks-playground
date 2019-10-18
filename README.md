@@ -1,1 +1,1 @@
-Webhooks playground for GeeCON !!!
+Webhooks playground for GeeCON Prague !!!
