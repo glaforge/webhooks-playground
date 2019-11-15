@@ -1,1 +1,1 @@
-Webhooks playground for BDX.IO!
+Webhooks playground pour BDX.IO!
