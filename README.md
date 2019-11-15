@@ -1,1 +1,1 @@
-Webhooks playground for GeeCON Prague!
+Webhooks playground for BDX.IO!
