@@ -1,1 +1,1 @@
-Webhooks playground for GeeCON Prague, another commit !!!
+Webhooks playground for GeeCON Prague!
