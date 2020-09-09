@@ -1,1 +1,1 @@
-Toujours beau à Brest !
+Hallo, wie geht's?
